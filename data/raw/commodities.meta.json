@@ -1,0 +1,17 @@
+{
+  "key": "commodities",
+  "provider": "yahoo",
+  "identifier": "DBC",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/DBC?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/commodities.json",
+  "start": "2006-02",
+  "end": "2026-10",
+  "months": 249,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "5778bce4d4d46f4410e26d69d2fefef700c9b0b835004229a457c85750e32a56",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:46.800453+00:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nl_price_fields",
+  "url": "https://opendata.cbs.nl/ODataApi/OData/85773NED/DataProperties?$format=json",
+  "sha256": "4603147bb1b85964dc7d3c5b9be11e21c39081faaf023007043dce9bdaaac2c1",
+  "downloaded_at": "2026-11-16T21:59:47.804288+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

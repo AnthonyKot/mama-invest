@@ -1,0 +1,7 @@
+{
+  "key": "plnusd",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CCUSSP01PLM650N",
+  "sha256": "94e3c4f6eb0bb2a13993f077dca8316c04aa4fbbad5bc8180006a0de5d5c567b",
+  "downloaded_at": "2026-11-16T21:59:52.253343+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

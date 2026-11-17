@@ -1,0 +1,15 @@
+{
+  "key": "gbpusd",
+  "provider": "fred",
+  "identifier": "DEXUSUK",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXUSUK",
+  "path": "data/raw/gbpusd.csv",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "sha256": "e5e496466383ef8c7fa406acc930e361150d5c8a413330793335ff37f9c22c20",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:31:30.096826+00:00",
+  "status": "downloaded"
+}

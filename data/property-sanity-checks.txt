@@ -1,0 +1,6 @@
+PASS us: local house-price index falls from 2007-03 to 2011-03.
+PASS nl: local house-price index falls from 2008-01 to 2013-01.
+PASS uk: local house-price index falls from 2008-03 to 2008-12.
+PASS nl: gross yields 5.25% to 9.20%; data through 2025-12.
+PASS uk: gross yields 3.83% to 8.61%; data through 2026-06.
+PASS us: gross yields 5.79% to 8.79%; data through 2024-12.

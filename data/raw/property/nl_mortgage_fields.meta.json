@@ -1,0 +1,7 @@
+{
+  "key": "nl_mortgage_fields",
+  "url": "https://opendata.cbs.nl/ODataApi/OData/37276mfo/DataProperties?$format=json",
+  "sha256": "51ee7440ab8070fbf36479ed2071ffce035c4105820872a510ef90f8068407c5",
+  "downloaded_at": "2026-11-16T21:59:48.122026+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

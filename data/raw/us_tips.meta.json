@@ -1,0 +1,17 @@
+{
+  "key": "us_tips",
+  "provider": "yahoo",
+  "identifier": "VIPSX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VIPSX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/us_tips.json",
+  "start": "2000-06",
+  "end": "2026-10",
+  "months": 317,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "8d8771a8c777859a273a3b82cf4df69cbf6449d538770a1d866319178b6159ca",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:46.215785+00:00",
+  "status": "downloaded"
+}

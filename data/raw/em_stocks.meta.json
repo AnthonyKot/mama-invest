@@ -1,0 +1,17 @@
+{
+  "key": "em_stocks",
+  "provider": "yahoo",
+  "identifier": "VEIEX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VEIEX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/em_stocks.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "ec34497722013cf563c9bc5db3b94bae42fb2fda990bc1fa79985c303e427f45",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:43.413668+00:00",
+  "status": "downloaded"
+}

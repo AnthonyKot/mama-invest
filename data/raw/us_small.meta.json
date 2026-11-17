@@ -1,0 +1,17 @@
+{
+  "key": "us_small",
+  "provider": "yahoo",
+  "identifier": "NAESX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/NAESX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/us_small.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "4ab386401dfdbc759f30815c425a6a84a02f803d811c6b142bc3dca9b5753de2",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:42.285953+00:00",
+  "status": "downloaded"
+}

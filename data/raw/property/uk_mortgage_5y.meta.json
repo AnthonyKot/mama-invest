@@ -1,0 +1,7 @@
+{
+  "key": "uk_mortgage_5y",
+  "url": "https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes&Datefrom=01/Jan/1998&Dateto=31/Oct/2026&SeriesCodes=IUMBV42&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N",
+  "sha256": "87ec8e1c7997d7f43c33303adbe40fb72f299ddc65ddd067a981a666bde35dc6",
+  "downloaded_at": "2026-11-16T22:05:31.800904+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

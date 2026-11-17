@@ -1,0 +1,7 @@
+{
+  "key": "us_mortgage_15y",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE15US",
+  "sha256": "169692f57644d8522e3a7f85e2a57c5b7047d3985114c1b1013212e20391466e",
+  "downloaded_at": "2026-11-16T21:59:51.441520+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

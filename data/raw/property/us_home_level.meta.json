@@ -1,0 +1,7 @@
+{
+  "key": "us_home_level",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MSPUS",
+  "sha256": "a9f5886d44aeb6f0bbb14d823b1c2b397e8fb7775fb47b6dfd4c67073fdbea32",
+  "downloaded_at": "2026-11-16T21:59:50.540849+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

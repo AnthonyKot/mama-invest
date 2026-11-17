@@ -1,0 +1,1699 @@
+{
+  "nl": {
+    "1999": {
+      "rentRate": 0.5,
+      "saleRate": 0,
+      "source": "https://www.tweedekamer.nl/downloads/document?id=2015D37139",
+      "valuationLag": 0,
+      "note": "50% marginal rental-income rate is user-approved and adjustable; 0.7% net-wealth tax. Interest deducted from rental profit, not owner-occupier relief.",
+      "deductInterest": true,
+      "wealthRate": 0.007,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2000": {
+      "rentRate": 0.5,
+      "saleRate": 0,
+      "source": "https://www.tweedekamer.nl/downloads/document?id=2015D37139",
+      "valuationLag": 0,
+      "note": "50% marginal rental-income rate is user-approved and adjustable; 0.7% net-wealth tax. Interest deducted from rental profit, not owner-occupier relief.",
+      "deductInterest": true,
+      "wealthRate": 0.007,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2001": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2002": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2003": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2004": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2005": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2006": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2007": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2008": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2009": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 0,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "valuationNote": "Indexed vacant-market value proxies historical tenanted market valuation; no retrospective rental discount.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2010": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 1,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": true,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.6
+        },
+        {
+          "upTo": 1.5,
+          "factor": 0.64
+        },
+        {
+          "upTo": 2,
+          "factor": 0.68
+        },
+        {
+          "upTo": 2.5,
+          "factor": 0.72
+        },
+        {
+          "upTo": 3,
+          "factor": 0.75
+        },
+        {
+          "upTo": 3.5,
+          "factor": 0.79
+        },
+        {
+          "upTo": 4,
+          "factor": 0.82
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://www.fairhuurvoorverhuurders.nl/files/wetgeving/6procentwoz-gedeelte-uit-kb-over-leegwaarderatio.pdf",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.06,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2011": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 1,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": false,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.6
+        },
+        {
+          "upTo": 1.5,
+          "factor": 0.64
+        },
+        {
+          "upTo": 2,
+          "factor": 0.68
+        },
+        {
+          "upTo": 2.5,
+          "factor": 0.72
+        },
+        {
+          "upTo": 3,
+          "factor": 0.75
+        },
+        {
+          "upTo": 3.5,
+          "factor": 0.79
+        },
+        {
+          "upTo": 4,
+          "factor": 0.82
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://www.fairhuurvoorverhuurders.nl/files/wetgeving/6procentwoz-gedeelte-uit-kb-over-leegwaarderatio.pdf",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://zoek.officielebekendmakingen.nl/kst-33287-3.html",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning",
+      "transferNote": "6% before 15 June; 2% thereafter. Neither purchase scenario is in this transition year."
+    },
+    "2012": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 1,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": false,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.5
+        },
+        {
+          "upTo": 1.5,
+          "factor": 0.54
+        },
+        {
+          "upTo": 2,
+          "factor": 0.58
+        },
+        {
+          "upTo": 2.5,
+          "factor": 0.63
+        },
+        {
+          "upTo": 3,
+          "factor": 0.67
+        },
+        {
+          "upTo": 3.5,
+          "factor": 0.72
+        },
+        {
+          "upTo": 4,
+          "factor": 0.76
+        },
+        {
+          "upTo": 5,
+          "factor": 0.81
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stb-2011-677.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2013": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 1,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": false,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.5
+        },
+        {
+          "upTo": 1.5,
+          "factor": 0.53
+        },
+        {
+          "upTo": 2,
+          "factor": 0.56
+        },
+        {
+          "upTo": 2.5,
+          "factor": 0.59
+        },
+        {
+          "upTo": 3,
+          "factor": 0.62
+        },
+        {
+          "upTo": 3.5,
+          "factor": 0.66
+        },
+        {
+          "upTo": 4,
+          "factor": 0.69
+        },
+        {
+          "upTo": 5,
+          "factor": 0.73
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.78
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stb-2012-694.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2014": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 1,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": false,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2015": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 1,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": false,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2016": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://zoek.officielebekendmakingen.nl/kst-32740-1-n1.html",
+      "valuationLag": 1,
+      "note": "4% deemed return taxed at 30%; mortgage debt reduces the base. No allowance.",
+      "wealthRate": 0.012,
+      "averageBase": false,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2017": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://download.belastingdienst.nl/academie/kennisnetwerk/dl/werking_box3_2017.pdf",
+      "valuationLag": 1,
+      "note": "Original annual deemed wealth-mix method; assumes no other taxable wealth above the already-used allowance. Retrospective relief is not modelled.",
+      "mode": "bands",
+      "rate": 0.3,
+      "bands": [
+        {
+          "upTo": 75000,
+          "return": 0.028708
+        },
+        {
+          "upTo": 975000,
+          "return": 0.04600400000000001
+        },
+        {
+          "upTo": 1e+30,
+          "return": 0.0539
+        }
+      ],
+      "bracketSource": "https://open.overheid.nl/documenten/ronl-04947996-d528-4eac-afb0-6aa936dc577e/pdf",
+      "returnSource": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2018": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://download.belastingdienst.nl/academie/kennisnetwerk/dl/werking_box3_2017.pdf",
+      "valuationLag": 1,
+      "note": "Original annual deemed wealth-mix method; assumes no other taxable wealth above the already-used allowance. Retrospective relief is not modelled.",
+      "mode": "bands",
+      "rate": 0.3,
+      "bands": [
+        {
+          "upTo": 70800,
+          "return": 0.020166000000000003
+        },
+        {
+          "upTo": 978000,
+          "return": 0.043258000000000005
+        },
+        {
+          "upTo": 1e+30,
+          "return": 0.0538
+        }
+      ],
+      "bracketSource": "https://open.overheid.nl/documenten/ronl-04947996-d528-4eac-afb0-6aa936dc577e/pdf",
+      "returnSource": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2019": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://download.belastingdienst.nl/academie/kennisnetwerk/dl/werking_box3_2017.pdf",
+      "valuationLag": 1,
+      "note": "Original annual deemed wealth-mix method; assumes no other taxable wealth above the already-used allowance. Retrospective relief is not modelled.",
+      "mode": "bands",
+      "rate": 0.3,
+      "bands": [
+        {
+          "upTo": 71650,
+          "return": 0.019318000000000002
+        },
+        {
+          "upTo": 989736,
+          "return": 0.044434
+        },
+        {
+          "upTo": 1e+30,
+          "return": 0.0559
+        }
+      ],
+      "bracketSource": "https://open.overheid.nl/documenten/ronl-04947996-d528-4eac-afb0-6aa936dc577e/pdf",
+      "returnSource": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2020": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://download.belastingdienst.nl/academie/kennisnetwerk/dl/werking_box3_2017.pdf",
+      "valuationLag": 1,
+      "note": "Original annual deemed wealth-mix method; assumes no other taxable wealth above the already-used allowance. Retrospective relief is not modelled.",
+      "mode": "bands",
+      "rate": 0.3,
+      "bands": [
+        {
+          "upTo": 72797,
+          "return": 0.017893000000000003
+        },
+        {
+          "upTo": 1005572,
+          "return": 0.041859
+        },
+        {
+          "upTo": 1e+30,
+          "return": 0.0528
+        }
+      ],
+      "bracketSource": "https://open.overheid.nl/documenten/ronl-04947996-d528-4eac-afb0-6aa936dc577e/pdf",
+      "returnSource": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.02,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2021": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://download.belastingdienst.nl/academie/kennisnetwerk/dl/werking_box3_2017.pdf",
+      "valuationLag": 1,
+      "note": "Original annual deemed wealth-mix method; assumes no other taxable wealth above the already-used allowance. Retrospective relief is not modelled.",
+      "mode": "bands",
+      "rate": 0.31,
+      "bands": [
+        {
+          "upTo": 50000,
+          "return": 0.018978000000000002
+        },
+        {
+          "upTo": 950000,
+          "return": 0.045014000000000005
+        },
+        {
+          "upTo": 1e+30,
+          "return": 0.0569
+        }
+      ],
+      "bracketSource": "https://open.overheid.nl/documenten/ronl-04947996-d528-4eac-afb0-6aa936dc577e/pdf",
+      "returnSource": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.08,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2022": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://download.belastingdienst.nl/academie/kennisnetwerk/dl/werking_box3_2017.pdf",
+      "valuationLag": 1,
+      "note": "Original annual deemed wealth-mix method; assumes no other taxable wealth above the already-used allowance. Retrospective relief is not modelled.",
+      "mode": "bands",
+      "rate": 0.31,
+      "bands": [
+        {
+          "upTo": 50650,
+          "return": 0.018182
+        },
+        {
+          "upTo": 962350,
+          "return": 0.043666
+        },
+        {
+          "upTo": 1e+30,
+          "return": 0.0553
+        }
+      ],
+      "bracketSource": "https://www.belastingdienst.nl/wps/wcm/connect/fisin/fisin2022/belastingberekening",
+      "returnSource": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.45
+        },
+        {
+          "upTo": 2,
+          "factor": 0.51
+        },
+        {
+          "upTo": 3,
+          "factor": 0.56
+        },
+        {
+          "upTo": 4,
+          "factor": 0.62
+        },
+        {
+          "upTo": 5,
+          "factor": 0.67
+        },
+        {
+          "upTo": 6,
+          "factor": 0.73
+        },
+        {
+          "upTo": 7,
+          "factor": 0.78
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 0.85
+        }
+      ],
+      "valuationSource": "https://zoek.officielebekendmakingen.nl/stcrt-2015-16875.html",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.08,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2023": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "valuationLag": 1,
+      "note": "Separate deemed returns on home, savings and debt. Actual-return counterevidence is not modelled because the rest of the owner's wealth is unspecified.",
+      "mode": "split",
+      "assetReturn": 0.0617,
+      "cashReturn": 0.0092,
+      "debtReturn": 0.0246,
+      "rate": 0.32,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.73
+        },
+        {
+          "upTo": 2,
+          "factor": 0.79
+        },
+        {
+          "upTo": 3,
+          "factor": 0.84
+        },
+        {
+          "upTo": 4,
+          "factor": 0.9
+        },
+        {
+          "upTo": 5,
+          "factor": 0.95
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 1.0
+        }
+      ],
+      "valuationSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/wat_zijn_uw_bezittingen_en_schulden/uw_bezittingen/overige_onroerende_zaken/waarde_verhuurde_woning_als_overige_onroerende_zaak/tabellen_waarde_verhuurde_of_verpachte_woning/",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.104,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2024": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "valuationLag": 1,
+      "note": "Separate deemed returns on home, savings and debt. Actual-return counterevidence is not modelled because the rest of the owner's wealth is unspecified.",
+      "mode": "split",
+      "assetReturn": 0.0604,
+      "cashReturn": 0.0144,
+      "debtReturn": 0.0261,
+      "rate": 0.36,
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.73
+        },
+        {
+          "upTo": 2,
+          "factor": 0.79
+        },
+        {
+          "upTo": 3,
+          "factor": 0.84
+        },
+        {
+          "upTo": 4,
+          "factor": 0.9
+        },
+        {
+          "upTo": 5,
+          "factor": 0.95
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 1.0
+        }
+      ],
+      "valuationSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/wat_zijn_uw_bezittingen_en_schulden/uw_bezittingen/overige_onroerende_zaken/waarde_verhuurde_woning_als_overige_onroerende_zaak/tabellen_waarde_verhuurde_of_verpachte_woning/",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.104,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2025": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "valuationLag": 1,
+      "note": "Separate deemed returns on home, savings and debt. Actual-return counterevidence is not modelled because the rest of the owner's wealth is unspecified.",
+      "mode": "split",
+      "assetReturn": 0.0588,
+      "cashReturn": 0.0137,
+      "debtReturn": 0.027,
+      "rate": 0.36,
+      "rateSource": "https://zoek.officielebekendmakingen.nl/stcrt-2026-3708.html",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.73
+        },
+        {
+          "upTo": 2,
+          "factor": 0.79
+        },
+        {
+          "upTo": 3,
+          "factor": 0.84
+        },
+        {
+          "upTo": 4,
+          "factor": 0.9
+        },
+        {
+          "upTo": 5,
+          "factor": 0.95
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 1.0
+        }
+      ],
+      "valuationSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/wat_zijn_uw_bezittingen_en_schulden/uw_bezittingen/overige_onroerende_zaken/waarde_verhuurde_woning_als_overige_onroerende_zaak/tabellen_waarde_verhuurde_of_verpachte_woning/",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.104,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    },
+    "2026": {
+      "rentRate": 0,
+      "saleRate": 0,
+      "source": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/met-welke-percentages-is-het-fictief-rendement-berekend",
+      "valuationLag": 1,
+      "note": "Separate deemed returns on home, savings and debt. Actual-return counterevidence is not modelled because the rest of the owner's wealth is unspecified.",
+      "mode": "split",
+      "assetReturn": 0.06,
+      "cashReturn": 0.0128,
+      "debtReturn": 0.027,
+      "rate": 0.36,
+      "rateSource": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/berekening-box-3-inkomen-2026",
+      "approximation": "2026 cash/debt percentages are provisional; asset return and tax rate are enacted.",
+      "rentalDiscount": [
+        {
+          "upTo": 1,
+          "factor": 0.73
+        },
+        {
+          "upTo": 2,
+          "factor": 0.79
+        },
+        {
+          "upTo": 3,
+          "factor": 0.84
+        },
+        {
+          "upTo": 4,
+          "factor": 0.9
+        },
+        {
+          "upTo": 5,
+          "factor": 0.95
+        },
+        {
+          "upTo": 1e+30,
+          "factor": 1.0
+        }
+      ],
+      "valuationSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/wat_zijn_uw_bezittingen_en_schulden/uw_bezittingen/overige_onroerende_zaken/waarde_verhuurde_woning_als_overige_onroerende_zaak/tabellen_waarde_verhuurde_of_verpachte_woning/",
+      "valuationNote": "Prior-January indexed market value proxies the unavailable individual WOZ valuation; protected, non-temporary tenancy assumed.",
+      "debtThreshold": 0,
+      "debtNote": "Debt threshold assumed consumed by other debt; full model mortgage deducted.",
+      "transferRate": 0.08,
+      "transferSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/overdrachtsbelasting/tarieven_overdrachtsbelasting/het_tarief_van_de_overdrachtbelasting",
+      "saleSource": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/werk_en_inkomen/online-inkomen-verdienen/ik-verhuur-mijn-huis/verhuur-2e-woning"
+    }
+  },
+  "uk": {
+    "1999": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2000": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2001": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2002": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2003": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2004": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2005": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2006": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2007": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2008": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2009": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2010": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2011": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2012": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2013": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2014": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2015": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2016": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2017": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2018": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2019": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2020": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2021": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2022": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2023": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2024": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2025": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    },
+    "2026": {
+      "rentRate": 0.2,
+      "interestCredit": 0.2,
+      "saleRate": 0.24,
+      "saleAllowance": 3000,
+      "deductPurchaseCosts": true,
+      "source": "https://www.gov.uk/guidance/income-tax-when-you-rent-out-a-property-working-out-your-rental-income",
+      "saleSource": "https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances",
+      "note": "Simplified UK resident: assumed 20% effective net-rent tax and capped 20% interest credit; 24% sale-gain tax above GBP3,000, measured from original purchase costs, without nonresident rebasing. Fixed effective rates applied throughout, not historical or future statutory tax schedules.",
+      "savingsIncomeRate": 0.2
+    }
+  },
+  "us": {
+    "1999": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2000": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2001": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2002": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2003": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2004": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2005": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2006": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2007": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2008": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2009": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2010": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2011": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2012": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2013": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2014": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2015": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2016": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2017": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2018": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2019": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2020": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2021": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2022": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2023": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2024": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2025": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    },
+    "2026": {
+      "rentRate": 0.24,
+      "deductInterest": true,
+      "saleRate": 0.15,
+      "deductPurchaseCosts": true,
+      "source": "https://www.irs.gov/publications/p527",
+      "saleSource": "https://www.irs.gov/taxtopics/tc409",
+      "note": "Simplified US resident: assumed 24% effective tax on positive rent after expenses and interest; 15% sale-gain tax. No depreciation deduction or recapture, passive-loss relief, state taxes or NIIT. These effective rates are assumptions applied throughout, not a reconstruction of tax returns.",
+      "savingsIncomeRate": 0.24
+    }
+  }
+}

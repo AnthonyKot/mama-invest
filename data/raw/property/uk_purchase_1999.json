@@ -1,0 +1,7 @@
+{ "format" : "linked-data-api", "version" : "0.2", "result" : {"_about" : "https://landregistry.data.gov.uk/data/ukhpi/region/united-kingdom/month/1999-01.json", "definition" : "https://landregistry.data.gov.uk/meta/data/ukhpi/region/_regionName/month/_month.json", "extendedMetadataVersion" : "https://landregistry.data.gov.uk/data/ukhpi/region/united-kingdom/month/1999-01.json?_metadata=all", "primaryTopic" : {"_about" : "http://landregistry.data.gov.uk/data/ukhpi/region/united-kingdom/month/1999-01", "averagePrice" : 67157, "dataSet" : "http://landregistry.data.gov.uk/data/ukhpi/dataset", "housePriceIndex" : 25.7, "percentageAnnualChange" : 10.1, "percentageChange" : 0.6, "refMonth" : "1999-01", "refPeriodDuration" : 3, "refPeriodStart" : "Fri, 01 Jan 1999", "refRegion" : {"_about" : "http://landregistry.data.gov.uk/id/region/united-kingdom", "label" : [{"_value" : "United Kingdom", "_datatype" : "langString", "_lang" : "en"}
+        ]}
+      , "type" : [{"_about" : "http://landregistry.data.gov.uk/def/ukhpi/MonthlyIndicesByRegion", "label" : [{"_value" : "UK house price indices", "_datatype" : "langString", "_lang" : "en"}
+        ]}
+      , "http://purl.org/linked-data/cube#Observation"]}
+    , "type" : ["http://purl.org/linked-data/api/vocab#ItemEndpoint", "http://purl.org/linked-data/api/vocab#Page"]}
+}

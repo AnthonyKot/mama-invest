@@ -1,0 +1,7 @@
+{
+  "key": "euro_deposit",
+  "url": "https://data-api.ecb.europa.eu/service/data/FM/M.U2.EUR.RT.MM.EURIBOR3MD_.HSTA?startPeriod=1998-12&format=csvdata",
+  "sha256": "b72d2c3a51c6da5d4aefbe4a2c2be7141990a0fc6839762e1d4f87c3afca1800",
+  "downloaded_at": "2026-11-16T21:59:56.483662+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

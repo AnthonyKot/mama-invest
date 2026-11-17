@@ -1,0 +1,17 @@
+{
+  "key": "us_cpi",
+  "provider": "fred",
+  "identifier": "CPIAUCNS",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS",
+  "path": "data/raw/us_cpi.csv",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 334,
+  "missing_months": [
+    "2025-10"
+  ],
+  "sha256": "0e1fc35d62c4b76698418b4e6a8f259ca23407a52bf3f5971597afe0388cadfc",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:31:29.820119+00:00",
+  "status": "incomplete"
+}

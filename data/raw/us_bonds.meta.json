@@ -1,0 +1,17 @@
+{
+  "key": "us_bonds",
+  "provider": "yahoo",
+  "identifier": "VBMFX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VBMFX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/us_bonds.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "7a3bcef756d5832d7da421cb6e226e537c323e45f18f9aacbd610f88151cba4c",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:40.831450+00:00",
+  "status": "downloaded"
+}

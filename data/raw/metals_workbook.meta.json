@@ -1,0 +1,12 @@
+{
+  "key": "metals_workbook",
+  "provider": "xlsx",
+  "identifier": "World Bank Pink Sheet",
+  "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+  "path": "data/raw/metals_workbook.xlsx",
+  "note": "Workbook downloaded; gold/silver extraction and coverage review pending",
+  "sha256": "3c8d9d8dbb48342fdbf24777c39a8ce8964cc2fd0958f72f6779e6e4ad99cde2",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:35:11.575096+00:00",
+  "status": "downloaded"
+}

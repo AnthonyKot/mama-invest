@@ -1,0 +1,17 @@
+{
+  "key": "us_long_bonds",
+  "provider": "yahoo",
+  "identifier": "VUSTX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VUSTX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/us_long_bonds.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "2896195d0fbe3b07bafe35baa8a894153388ef1188fe166143ce18d7153b47b7",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:45.743973+00:00",
+  "status": "downloaded"
+}

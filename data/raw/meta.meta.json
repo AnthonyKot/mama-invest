@@ -1,0 +1,17 @@
+{
+  "key": "meta",
+  "provider": "yahoo",
+  "identifier": "META",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/META?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/meta.json",
+  "start": "2012-05",
+  "end": "2026-10",
+  "months": 174,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "b1f302d389dde6ef2ff28eeb47df22c7ad9d879584a84e47c2f0e452e1fc301d",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:55.102887+00:00",
+  "status": "downloaded"
+}

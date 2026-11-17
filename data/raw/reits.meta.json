@@ -1,0 +1,17 @@
+{
+  "key": "reits",
+  "provider": "yahoo",
+  "identifier": "VGSIX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VGSIX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/reits.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "0ff77d175d19b85ad938dc5812c1575d5f73a20de0dc4cdf87e3c70d202e5f13",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:44.992223+00:00",
+  "status": "downloaded"
+}

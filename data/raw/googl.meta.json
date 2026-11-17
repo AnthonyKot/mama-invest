@@ -1,0 +1,17 @@
+{
+  "key": "googl",
+  "provider": "yahoo",
+  "identifier": "GOOGL",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/GOOGL?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/googl.json",
+  "start": "2004-08",
+  "end": "2026-10",
+  "months": 267,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "f13d72719eda92cc9fd0ef2796f56c871fd6153e1641162ba9f74668e218d473",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:54.708150+00:00",
+  "status": "downloaded"
+}

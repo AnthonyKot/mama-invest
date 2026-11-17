@@ -1,0 +1,17 @@
+{
+  "key": "intc",
+  "provider": "yahoo",
+  "identifier": "INTC",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/INTC?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/intc.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "75d152b270e1853a0e31325feff868d6bbc9b19e7fa1dea31bbe533ce5be84f9",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:49.662621+00:00",
+  "status": "downloaded"
+}

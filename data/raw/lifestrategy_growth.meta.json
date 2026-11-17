@@ -1,0 +1,17 @@
+{
+  "key": "lifestrategy_growth",
+  "provider": "yahoo",
+  "identifier": "VASGX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VASGX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/lifestrategy_growth.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "b0f3f8165f3dc6a8a5b6800ec97c838b3bd3e802a5804e5e74408a81be33f07b",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:56:51.201813+00:00",
+  "status": "downloaded"
+}

@@ -1,0 +1,17 @@
+{
+  "key": "euro_hicp",
+  "provider": "fred",
+  "identifier": "CP0000EZ19M086NEST",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CP0000EZ19M086NEST",
+  "path": "data/raw/euro_hicp.csv",
+  "start": "1998-12",
+  "end": "2026-09",
+  "months": 334,
+  "missing_months": [
+    "2026-10"
+  ],
+  "sha256": "5845fd30d20c6d4b7b2b9c784cfbf109ec806397bc4cc878d74f265aadb1ca29",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T21:03:39.642571+00:00",
+  "status": "incomplete"
+}

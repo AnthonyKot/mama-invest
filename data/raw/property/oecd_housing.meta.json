@@ -1,0 +1,7 @@
+{
+  "key": "oecd_housing",
+  "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.ECO.MPD,DSD_AN_HOUSE_PRICES@DF_HOUSE_PRICES,1.0/?startPeriod=1998&format=csvfile",
+  "sha256": "d6decd17bb91dc768b2944b39daffba8da61ba03c504c0d7be58f9f19cfaebb3",
+  "downloaded_at": "2026-11-16T21:59:47.401031+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

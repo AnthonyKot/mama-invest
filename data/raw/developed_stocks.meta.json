@@ -1,0 +1,17 @@
+{
+  "key": "developed_stocks",
+  "provider": "yahoo",
+  "identifier": "EFA",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/EFA?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/developed_stocks.json",
+  "start": "2001-08",
+  "end": "2026-10",
+  "months": 303,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "b30f60b17a18bbd72d16560da0b89211cc20dde1b40d74af1925afeb8ecd6c65",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:56:52.216379+00:00",
+  "status": "downloaded"
+}

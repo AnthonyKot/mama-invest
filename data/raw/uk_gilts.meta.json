@@ -1,0 +1,17 @@
+{
+  "key": "uk_gilts",
+  "provider": "yahoo",
+  "identifier": "IGLT.L",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/IGLT.L?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/uk_gilts.json",
+  "start": "2008-01",
+  "end": "2026-10",
+  "months": 226,
+  "missing_months": [],
+  "currency": "GBP",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "98c0e4865f4db78d50842412c32b06a500d79fae1e2d87a9b811b5d7278be8b6",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:41.794334+00:00",
+  "status": "downloaded"
+}

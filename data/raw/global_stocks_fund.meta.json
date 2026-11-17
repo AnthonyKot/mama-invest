@@ -1,0 +1,17 @@
+{
+  "key": "global_stocks_fund",
+  "provider": "yahoo",
+  "identifier": "VT",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VT?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/global_stocks_fund.json",
+  "start": "2008-06",
+  "end": "2026-10",
+  "months": 221,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "67cd936994bbd9cc8947b22cd764905dc0d638749ae2373e5078364a62b4002d",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:47.661451+00:00",
+  "status": "downloaded"
+}

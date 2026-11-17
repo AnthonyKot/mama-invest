@@ -1,0 +1,17 @@
+{
+  "key": "xom",
+  "provider": "yahoo",
+  "identifier": "XOM",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/XOM?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/xom.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "cc47d72edf9e2dbe70e8fb565287a8e06333fdabc4344aab3f28b4f593705452",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:52.259925+00:00",
+  "status": "downloaded"
+}

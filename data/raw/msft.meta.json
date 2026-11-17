@@ -1,0 +1,17 @@
+{
+  "key": "msft",
+  "provider": "yahoo",
+  "identifier": "MSFT",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/msft.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "a80f194a82e2736fc94a809b1d4e61b532656106e720651b8c8385f6e21437e3",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:48.810499+00:00",
+  "status": "downloaded"
+}

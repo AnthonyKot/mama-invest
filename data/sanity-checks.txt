@@ -1,0 +1,4 @@
+PASS US stocks 2003-02: nominal value $5130.40, money in $6951.33
+PASS US stocks 2009-02: nominal value $11999.41, money in $17614.55
+PASS Bitcoin Dec 2017 purchase: 73.56% loss by a month-end in 2018 (single purchase, no contributions).
+CPI estimate October 2025: 324.460823. UK rate proxy: 3.75% Feb–Oct 2026.

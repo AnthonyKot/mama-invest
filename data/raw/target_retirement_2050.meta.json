@@ -1,0 +1,17 @@
+{
+  "key": "target_retirement_2050",
+  "provider": "yahoo",
+  "identifier": "VFIFX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VFIFX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/target_retirement_2050.json",
+  "start": "2006-06",
+  "end": "2026-10",
+  "months": 245,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "4e99d0fe63b1d24266a48535d0b5647103e1f5f6a727e5f363e2316b250131dd",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:56:51.808904+00:00",
+  "status": "downloaded"
+}

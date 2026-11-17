@@ -1,0 +1,7 @@
+{
+  "key": "nl_mortgage_long_fixed",
+  "url": "https://data-api.ecb.europa.eu/service/data/MIR/M.NL.B.A2C.P.R.A.2250.EUR.N?startPeriod=1998-12&format=csvdata",
+  "sha256": "503cd2131a0c9aaf30ec69da79de5aef02da6515bbb1f0c85391ac7434e66305",
+  "downloaded_at": "2026-11-16T21:59:50.025747+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

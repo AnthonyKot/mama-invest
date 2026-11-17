@@ -1,0 +1,7 @@
+{
+  "key": "nl_prices",
+  "url": "https://opendata.cbs.nl/ODataApi/OData/85773NED/TypedDataSet?$format=json",
+  "sha256": "93899c32c1f187612618f53abce3cd33271c618931fbbb8013c5af7f7c4db4eb",
+  "downloaded_at": "2026-11-16T21:59:47.658843+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

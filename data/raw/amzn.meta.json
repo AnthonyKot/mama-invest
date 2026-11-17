@@ -1,0 +1,17 @@
+{
+  "key": "amzn",
+  "provider": "yahoo",
+  "identifier": "AMZN",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMZN?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/amzn.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "3cb20711a39371b7ee6772ffd10e07b40f979ba269b6d3a40346c77692d6c426",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:54.192604+00:00",
+  "status": "downloaded"
+}

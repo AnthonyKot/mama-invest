@@ -1,0 +1,15 @@
+{
+  "key": "usd_short_rate",
+  "provider": "fred",
+  "identifier": "DTB3",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTB3",
+  "path": "data/raw/usd_short_rate.csv",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "sha256": "e348dc53e133a85ba6f1ae3b3106fc91a101e9d380527d9cd6d223d0639ee185",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:31:30.648437+00:00",
+  "status": "downloaded"
+}

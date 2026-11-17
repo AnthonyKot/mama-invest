@@ -1,0 +1,17 @@
+{
+  "key": "us_intermediate_treasuries",
+  "provider": "yahoo",
+  "identifier": "VFITX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VFITX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/us_intermediate_treasuries.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "df4b5fe0196fd0f87399ee33e0d8914878c460e74ced1bd971d9aace78f37dfa",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:41.340896+00:00",
+  "status": "downloaded"
+}

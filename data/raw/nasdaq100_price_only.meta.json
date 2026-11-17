@@ -1,0 +1,17 @@
+{
+  "key": "nasdaq100_price_only",
+  "provider": "yahoo",
+  "identifier": "^NDX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ENDX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/nasdaq100_price_only.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "dfd1e5bf871360c50877b8539eacce8c7d37c41b22ae31f677fa532ee0b1c679",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:43.838796+00:00",
+  "status": "downloaded"
+}

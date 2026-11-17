@@ -1,0 +1,17 @@
+{
+  "key": "nasdaq100_fund",
+  "provider": "yahoo",
+  "identifier": "QQQ",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/nasdaq100_fund.json",
+  "start": "1999-03",
+  "end": "2026-10",
+  "months": 332,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "38119489ed4d998c1051ce44c2481b4c623f608f64c5494bbcda8318c91c461b",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:44.403061+00:00",
+  "status": "downloaded"
+}

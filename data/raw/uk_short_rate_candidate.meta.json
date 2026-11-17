@@ -1,0 +1,25 @@
+{
+  "key": "uk_short_rate_candidate",
+  "provider": "fred",
+  "identifier": "IR3TIB01GBM156N",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IR3TIB01GBM156N",
+  "path": "data/raw/uk_short_rate_candidate.csv",
+  "start": "1998-12",
+  "end": "2026-01",
+  "months": 326,
+  "missing_months": [
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10"
+  ],
+  "sha256": "40c23cc654a1380ed278a2b0be691f368d5cc1648493cadbbf1a2a2f654d33d4",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:31:30.893122+00:00",
+  "status": "incomplete"
+}

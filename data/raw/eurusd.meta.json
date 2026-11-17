@@ -1,0 +1,15 @@
+{
+  "key": "eurusd",
+  "provider": "fred",
+  "identifier": "DEXUSEU",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXUSEU",
+  "path": "data/raw/eurusd.csv",
+  "start": "1999-01",
+  "end": "2026-10",
+  "months": 334,
+  "missing_months": [],
+  "sha256": "2374b98f07cdfc5c0f3b5147325bfe5ddc15fc9d6cc5eb71b2c320d19c5438d3",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:31:30.356388+00:00",
+  "status": "downloaded"
+}

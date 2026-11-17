@@ -1,0 +1,7 @@
+{
+  "key": "pl_deposit",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IR3TIB01PLM156N",
+  "sha256": "ed8d353e0d735e7c9b31920af4298bb4c943634e3ef69f33690b1d24a8d376bf",
+  "downloaded_at": "2026-11-16T21:59:56.805505+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

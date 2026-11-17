@@ -1,0 +1,17 @@
+{
+  "key": "intl_stocks_candidate",
+  "provider": "yahoo",
+  "identifier": "VGTSX",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/VGTSX?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/intl_stocks_candidate.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "0eea81d006b8a554366984fec7eeb440413e9ab0672429cf34c1a5b158b9650e",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:42.737156+00:00",
+  "status": "downloaded"
+}

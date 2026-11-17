@@ -1,0 +1,13 @@
+{
+  "odata.metadata":"https://opendata.cbs.nl/ODataApi/OData/37276mfo/$metadata#Cbs.OData.WebAPI.DataProperties","value":[
+    {
+      "odata.type":"Cbs.OData.TimeDimension","ID":0,"Position":0,"ParentID":null,"Type":"TimeDimension","Key":"Perioden","Title":"Perioden","Description":null,"ReleasePolicy":false
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":1,"Position":1,"ParentID":null,"Type":"Topic","Key":"GemiddeldeHypotheekrente_1","Title":"Gemiddelde hypotheekrente","Description":"Gemiddelde maandrente van nieuw ingeschreven gewone hypotheken op\r\nonroerende goederen.","Datatype":"Double","Unit":"procent","Decimals":2,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":2,"Position":2,"ParentID":null,"Type":"Topic","Key":"HoogsteHypotheekrente_2","Title":"Hoogste hypotheekrente","Description":"Cijfers beschikbaar vanaf januari 1996.\r\nHoogste rentepercentage van gewone woninghypothecaire leningen, zonder\r\noverheidsgarantie van ten hoogste 75% van de executiewaarde, bij eerste\r\nafsluiting, op een nieuwbouw eengezinshuis in eigen gebruik, verstrekt\r\ndoor een aantal hypothecaire leningverstrekkende instellingen, w.o.\r\nhypotheekbanken, algemene en co\u00f6peratief georganiseerde banken, bij een\r\nrentevast periode van vijf jaar.","Datatype":"Double","Unit":"procent","Decimals":2,"Default":"Missing"
+    },{
+      "odata.type":"Cbs.OData.Topic","ID":3,"Position":3,"ParentID":null,"Type":"Topic","Key":"LaagsteHypotheekrente_3","Title":"Laagste hypotheekrente","Description":"Cijfers beschikbaar vanaf januari 1996.\r\nLaagste rentepercentage van gewone woninghypothecaire leningen, zonder\r\noverheidsgarantie van ten hoogste 75% van de executiewaarde, bij eerste\r\nafsluiting, op een nieuwbouw eengezinshuis in eigen gebruik, verstrekt\r\ndoor een aantal hypothecaire leningverstrekkende instellingen, w.o.\r\nhypotheekbanken, algemene en co\u00f6peratief georganiseerde banken, bij een\r\nrentevast periode van vijf jaar.","Datatype":"Double","Unit":"procent","Decimals":2,"Default":"Missing"
+    }
+  ]
+}

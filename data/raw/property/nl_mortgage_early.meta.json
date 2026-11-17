@@ -1,0 +1,7 @@
+{
+  "key": "nl_mortgage_early",
+  "url": "https://opendata.cbs.nl/ODataApi/OData/37276mfo/TypedDataSet?$format=json",
+  "sha256": "bdf0df93198cb6dd96018635e1b4bfc923766f58da3043154d9e5583bca7358e",
+  "downloaded_at": "2026-11-16T21:59:47.963265+00:00",
+  "status": "downloaded; semantic/source review pending"
+}

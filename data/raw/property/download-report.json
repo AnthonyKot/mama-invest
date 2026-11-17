@@ -1,0 +1,8 @@
+[
+  {
+    "key": "uk_purchase_2006",
+    "url": "https://landregistry.data.gov.uk/data/ukhpi/region/united-kingdom/month/2006-07.json",
+    "status": "failed",
+    "error": "Connection failed after three attempts \u2014 ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it"
+  }
+]

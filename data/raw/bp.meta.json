@@ -1,0 +1,17 @@
+{
+  "key": "bp",
+  "provider": "yahoo",
+  "identifier": "BP",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/BP?period1=912470400&period2=1793491200&interval=1d&events=div%2Csplits%2CcapitalGains",
+  "path": "data/raw/bp.json",
+  "start": "1998-12",
+  "end": "2026-10",
+  "months": 335,
+  "missing_months": [],
+  "currency": "USD",
+  "note": "Raw daily adjusted prices; monthly conversion and corporate-action review pending",
+  "sha256": "39266b91fcd24de3cfa69874009c2e25ec644cd2e88742cad4d6a9dcd4c5dc88",
+  "requested_end": "2026-10",
+  "downloaded_at": "2026-11-16T20:25:52.855319+00:00",
+  "status": "downloaded"
+}
